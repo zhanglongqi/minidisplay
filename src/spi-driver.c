@@ -9,7 +9,8 @@
 #include <linux/types.h>
 #include <linux/spi/spidev.h>
 #include <stdbool.h>
-#include <math.h>
+//#include <math.h>
+#include <tgmath.h>
 #include "spi-driver.h"
 
 #define pabort(s) {perror(s); abort();}
