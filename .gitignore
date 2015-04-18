@@ -1,3 +1,5 @@
+minidisplay-test
+build/
 # Object files
 *.o
 *.ko
